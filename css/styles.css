@@ -1,5 +1,5 @@
 #title{
-    background-color: #ff4c68;
+    background-color: #47bfc4;
 }
 .heading{
     font-family: 'Montserrat-Black', sans-serif;
@@ -64,17 +64,17 @@ p{
     color: #8f8f8f;
 }
 .icon{
-    color: #ef8172;
+    color: #67a8a8;
     margin-bottom: 1rem;
 }
 .icon:hover{
-    color: #ff4c68;
+    color: black;
 }
 
 /* Testimonials */
 #testimonials{
     text-align: center;
-    background-color: #ef8172;
+    background-color: #67a8a8;
     color: #fff;
 }
 h2{
@@ -91,7 +91,7 @@ h2{
 
 /* Press Section */
 #press{
-    background-color: #ef8172;
+    background-color: #67a8a8;
     text-align: center;
     padding-bottom: 3%;
 }
@@ -124,7 +124,7 @@ h2{
 
 /* Call To Action */
 #cta{
-    background-color: #ff4c68;
+    background-color: #47bfc4;
     padding: 7% 15%;
     color: #fff;
     text-align: center;
